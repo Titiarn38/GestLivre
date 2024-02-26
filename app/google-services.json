@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304152091656",
+    "project_id": "register-firebase-27133",
+    "storage_bucket": "register-firebase-27133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304152091656:android:cd689a5ab51fc17d7d05bd",
+        "android_client_info": {
+          "package_name": "com.example.gestlivre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Cgpcu8y2W3wiQ0OIb1uta8kkv8JxHzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

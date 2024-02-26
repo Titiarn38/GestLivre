@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GestLivre</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="s_inscrire">S\'inscrire</string>
+    <string name="cliquer_pour_se_connecter">Cliquer pour se connecter</string>
+    <string name="connexion">Connexion</string>
+</resources>
